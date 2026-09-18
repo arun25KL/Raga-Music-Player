@@ -1,4 +1,9 @@
 # 🎵 Raga Music Player
+<img width="350" height="800" alt="1" src="https://github.com/user-attachments/assets/070bca0b-1ce6-462b-bc1e-efb87325e837" />
+
+<img width="350" height="800" alt="2" src="https://github.com/user-attachments/assets/a1005394-8ec7-4450-bd01-f92ea1845790" />
+
+
 
 > A modern, high-performance, offline-first local audio player built with **Kotlin** and **Jetpack Compose (Material Design 3)**. Engineered for pure sound quality, comprehensive format support, smart playback continuity, and zero telemetry.
 
