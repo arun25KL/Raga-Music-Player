@@ -1,0 +1,7 @@
+{
+  "name": "Raga Music Player",
+  "description": "A high-performance local audio player supporting MP3, M4A, FLAC, ALAC, WAV, AIFF, AAC, OGG, OPUS, WMA, and MIDI with multi-folder indexing, background scanning, and individual format toggles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

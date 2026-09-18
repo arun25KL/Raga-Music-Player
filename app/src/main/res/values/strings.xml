@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Raga Music Player</string>
+    <string name="title_playlist">Playlist</string>
+    <string name="title_now_playing">Now Playing</string>
+    <string name="action_pick_folder">Select Folder</string>
+    <string name="action_play_new">Play New</string>
+    <string name="action_scan_device">Scan Audio</string>
+    <string name="action_reset_session">Reset Session</string>
+    <string name="desc_play">Play</string>
+    <string name="desc_pause">Pause</string>
+    <string name="desc_skip_next">Skip Next</string>
+    <string name="desc_skip_previous">Skip Previous</string>
+    <string name="desc_album_art">Album Art</string>
+</resources>
